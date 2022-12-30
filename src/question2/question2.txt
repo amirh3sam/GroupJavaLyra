@@ -1,0 +1,4 @@
+
+
+write method that can divided two number without using division operator?
+

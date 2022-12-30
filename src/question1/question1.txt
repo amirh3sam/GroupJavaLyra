@@ -1,0 +1,6 @@
+
+write method which can identify given number as Even or Odd?
+
+Ex: identify(5) -> "Odd"
+    identify(6) -> "Even"
+
