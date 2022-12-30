@@ -1,19 +1,18 @@
 package question4;
 
-public class SwapTwoNumberWithoutThirdVar {
+public class SwapTwoVarWithoutThirdVar {
 
     public static void main(String[] args) {
 
-        int a = 10;
-        int b = 20;
+        int a = 100, b = 200;
 
-        System.out.println("Before swap: "+ a + " " + b);
+        System.out.println("Before swap: " + a + " " + b);
 
         a = a + b;
         b = a - b;
         a = a - b;
 
-        System.out.println("After Swap: "+ a + " " + b);
+        System.out.println("After Swap : " + a + " " + b);
 
 
     }
