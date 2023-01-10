@@ -1,6 +1,7 @@
 package Question7;
 
 public class Question8 {
+// This solution actually works with positive numbers also!
 
     /*
     Numbers - Reverse Negative number
@@ -49,7 +50,7 @@ Write a return method that can reverse negative number and return it as int
     }
 
     public static void main(String[] args) {
-        System.out.println(reverse(-174));
+        System.out.println(reverse(75));
     }
 
 }
