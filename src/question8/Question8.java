@@ -1,4 +1,4 @@
-package question7;
+package question8;
 
 public class Question8 {
 // This solution actually works with positive numbers also!
