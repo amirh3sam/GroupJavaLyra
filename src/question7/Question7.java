@@ -10,6 +10,8 @@ public class Question7 {
      */
 
 
+
+
     public static boolean primeNumber(int num) {
         if (num < 2) { // if the number is less than 2
             return false; // return false here, exit the program
