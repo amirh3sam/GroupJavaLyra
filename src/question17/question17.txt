@@ -1,0 +1,2 @@
+Question1: Array - Find Minimum
+Write a method that can find the Minimum number from an int Array
